@@ -1,0 +1,35 @@
+The prompt did not specify if the print should only happen at the end or after each function so I have included both outputs with the submitted code corresponding to the first.
+
+
+
+Bruce
+BCERUURECB
+Please enter a string of characters to proceed or empty string to quit
+Aditya Kelshiker
+AADEEHIIKKLRSTYYTSRLKKIIHEEDAA
+Please enter a string of characters to proceed or empty string to quit
+
+Successfully Quit
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+With print after each function:
+
+Please enter a string of characters to proceed or empty string to quit
+Bruce
+Bruce
+BRUCE
+BCERU
+BCERUURECB
+Please enter a string of characters to proceed or empty string to quit
+Aditya Kelshiker
+Aditya Kelshiker
+ADITYAKELSHIKER
+AADEEHIIKKLRSTY
+AADEEHIIKKLRSTYYTSRLKKIIHEEDAA
+Please enter a string of characters to proceed or empty string to quit
+
+
+Successfully Quit
