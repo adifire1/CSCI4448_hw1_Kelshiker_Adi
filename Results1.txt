@@ -1,0 +1,98 @@
+Please enter integer or real number or hit enter to terminate loop
+1
+1.0
+Please enter integer or real number or hit enter with no values to terminate loop
+1
+
+1.0
+1.0
+Please enter integer or real number or hit enter with no values to terminate loop
+2
+
+1.0
+1.0
+2.0
+Please enter integer or real number or hit enter with no values to terminate loop
+3
+
+1.0
+1.0
+2.0
+3.0
+Please enter integer or real number or hit enter with no values to terminate loop
+4
+
+1.0
+1.0
+2.0
+3.0
+4.0
+Please enter integer or real number or hit enter with no values to terminate loop
+5
+
+1.0
+1.0
+2.0
+3.0
+4.0
+5.0
+Please enter integer or real number or hit enter with no values to terminate loop
+
+Loop terminated
+Sum: 16.0
+Mean: 2.6666666666666665
+3
+4
+Median: 3.5
+Minimum: 1.0
+Maximum: 5.0
+Mode: 1.0
+Max Occurences -- Value: 1.0   Count: 1
+Variance: 2.666666666666667
+Standard Deviation : 1.632993161855452
+
+
+------------------------------------------------------------------------------------------------------
+
+Please enter integer or real number or hit enter to terminate loop
+1.2
+1.2
+Please enter integer or real number or hit enter with no values to terminate loop
+-8.3
+
+1.2
+-8.3
+Please enter integer or real number or hit enter with no values to terminate loop
+99.123
+
+1.2
+-8.3
+99.123
+Please enter integer or real number or hit enter with no values to terminate loop
+4321.22222
+
+1.2
+-8.3
+99.123
+4321.22222
+Please enter integer or real number or hit enter with no values to terminate loop
+-888.420
+
+1.2
+-8.3
+99.123
+4321.22222
+-888.42
+Please enter integer or real number or hit enter with no values to terminate loop
+
+Loop terminated
+Sum: 3524.8252199999997
+Mean: 704.9650439999999
+Median: 99.123
+Minimum: -888.42
+Maximum: 4321.22222
+No mode found
+No max occurence found
+Variance: 4246817.175960279
+Standard Deviation : 2060.7807200088705
+
